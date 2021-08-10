@@ -8,3 +8,4 @@
 
 
                                                    "Yet another changes into file 3!" 
+"Info 1" 
